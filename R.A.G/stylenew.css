@@ -1,0 +1,90 @@
+
+#home{
+	background-color: ;
+	height: 500px;
+	width: 100%;
+	background-image: url("");
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: ;
+}
+#home > .container{
+	margin-top: 100px;
+	color: white;
+	text-align: center;
+}
+#about{
+	background-color: ;
+	height: 500px;
+	width: 100%;
+	background-image: url(".jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 2%;
+}
+#about > .container{
+	margin-top: 100px;
+	color: white;
+	text-align: center;
+}
+#games{
+	background-color: ;
+	height: 600px;
+	width: 100%;
+	background-image: url(".jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 2%;
+}
+#games > .container{
+	margin-top: 0px;
+	color: white;
+	text-align: center;
+}
+#banner{
+	background-color: ;
+	color: white;
+    height: 100px;
+	width: 100%;
+	font-size: 58px;
+	text-align: center;
+	margin-top: 0px;
+}
+#banner > h1{
+	font-size: 36px;
+}
+#projects{
+	background-color:;
+	height: 598px;
+	width: 100%;
+	background-image: url(".jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 20px;
+}
+.card-img-top{
+	height:;
+}
+#banner2{
+	background-color: ;
+	color: white;
+    height: 80px;
+	width: 100%;
+	font-size: 48px;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+#banner2 > h1{
+	font-size: 36px;
+}
+#team{
+	background-color: ;
+	height: 470px;
+	width: 100%;
+	background-image: url(".jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
